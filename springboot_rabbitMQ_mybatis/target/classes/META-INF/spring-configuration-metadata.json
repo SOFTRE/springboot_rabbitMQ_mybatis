@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "my",
+      "type": "com.xxm.springboot.pojo.MyInfo",
+      "sourceType": "com.xxm.springboot.pojo.MyInfo"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.address",
+      "type": "java.lang.String",
+      "sourceType": "com.xxm.springboot.pojo.MyInfo"
+    },
+    {
+      "name": "my.myservers2",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.xxm.springboot.pojo.MyInfo"
+    },
+    {
+      "name": "my.port",
+      "type": "java.lang.String",
+      "sourceType": "com.xxm.springboot.pojo.MyInfo"
+    },
+    {
+      "name": "my.url",
+      "type": "java.lang.String",
+      "sourceType": "com.xxm.springboot.pojo.MyInfo"
+    }
+  ],
+  "hints": []
+}
